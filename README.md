@@ -54,11 +54,6 @@ To create a cost-effective, EMG-controlled prosthetic arm that offers intuitive 
 
 ---
 
-## Demo & Photos  
-![Prosthetic Arm Demo](./assets/prosthetic_arm_demo.jpg)
-
----
-
 ## Repository Contents
 - `/src` – Arduino code and control logic  
 - `/cad` – 3D models and drawings  
